@@ -23,26 +23,26 @@ RUS · Voluntary certification (RST mark)
 <!-- page 3 -->
 ## Contents
 
-Introduction .......................................................... 4
-Technical specifications of ZAO "Firma Galan" boilers .............. 7
-Boiler design ..................................................... 9
-Advantages of electrode boilers ................................... 10
-Recommended supply set ........................................... 13
-Installation (mounting) of the electrode boiler in the heating system ...... 14
-Strictly prohibited ................................................ 17
-Electrical wiring of the boilers (automation) ...................... 18
-Filling the heating system with heat-transfer fluid .................. 24
-Carrying out the adjustment (correction) ......................... 26
-Switching on the boiler ............................................ 29
-Preventive maintenance and repair work. Flushing the system ......... 30
-Boiler repair .................................................... 31
-Visual monitoring of boiler operation ............................ 33
-Annual work ensuring electrical safety and reliability of automation equipment .......................................... 35
-Fire safety ...................................................... 36
-Transport and storage of electrode boilers ........................ 36
-Possible faults in the heating system and how to remedy them ........ 37
-
-3
+| Chapter | Page |
+|---|:---:|
+| Introduction | 4 |
+| Technical specifications of ZAO "Firma Galan" boilers | 7 |
+| Boiler design | 9 |
+| Advantages of electrode boilers | 10 |
+| Recommended supply set | 13 |
+| Installation (mounting) of the electrode boiler in the heating system | 14 |
+| Strictly prohibited | 17 |
+| Electrical wiring of the boilers (automation) | 18 |
+| Filling the heating system with heat-transfer fluid | 24 |
+| Carrying out the adjustment (correction) | 26 |
+| Switching on the boiler | 29 |
+| Preventive maintenance and repair work. Flushing the system | 30 |
+| Boiler repair | 31 |
+| Visual monitoring of boiler operation | 33 |
+| Annual work ensuring electrical safety and reliability of automation equipment | 35 |
+| Fire safety | 36 |
+| Transport and storage of electrode boilers | 36 |
+| Possible faults in the heating system and how to remedy them | 37 |
 
 ---
 
@@ -58,8 +58,6 @@ All rights reserved. No part of this manual may be reproduced in any form withou
 ## Introduction
 
 The electrode boiler is one of the most advanced and widely used achievements in energy-saving heating equipment and, as many years of successful operation have shown, a simple, reliable and safe product to use. It is the result of applying, for peaceful purposes, one of the best achievements of the domestic defense industry. The efficiency of electrode boilers reaches 98%. For many years, Galan boilers have been successfully used in practically every region of Russia and in countries near and far abroad.
-
-4
 
 ---
 
@@ -78,8 +76,6 @@ The set temperature in the heated premises is maintained by the automation, incl
 
 Operating mode: continuous.
 
-5
-
 ---
 
 <!-- page 6 -->
@@ -93,21 +89,19 @@ There are no combustible materials in the design of the boilers, so our boilers 
 
 Technical specifications (TU) for the boilers: TU3468-0001-17289826-12;
 
-Ordering designation: – Electrode boiler "Galan-xxxx No." (xxxx – name of the boiler).
+Ordering designation: Electrode boiler "Galan-xxxx No." (xxxx: name of the boiler).
 
-Note: No. – boiler output according to Table No. 1.
+Note: No.: boiler output according to Table No. 1.
 
-Example: – Electrode boiler "Galan-Ochag 6" – boiler name "Ochag", output 6 kW.
+Example: Electrode boiler "Galan-Ochag 6" (boiler name "Ochag", output 6 kW).
 
 **All boilers of the "Ochag", "Geyser" and "Vulkan" series listed in Table No. 1 are certified.**
 
 **Certificate of conformity No. ROSS RU.ME71.H00215.**
 
-**Certification body – OS EI ANO ET 109052, Moscow, Nizhegorodskaya St., 29.**
+**Certification body: OS EI ANO ET 109052, Moscow, Nizhegorodskaya St., 29.**
 
 **Voluntary certification.**
-
-6
 
 ---
 
@@ -131,8 +125,6 @@ Example: – Electrode boiler "Galan-Ochag 6" – boiler name "Ochag", output 6 
 
 <!-- note: in row 6, the cells under Ochag are filled in on the "380 V" row, and those under Geyser and Vulkan on the "220 V" row, as in the original -->
 
-7
-
 ---
 
 <!-- page 8 -->
@@ -148,17 +140,15 @@ Example: – Electrode boiler "Galan-Ochag 6" – boiler name "Ochag", output 6 
 
 For all electrode boilers manufactured by ZAO "Firma Galan" and listed in this table, of the "Ochag", "Geyser" and "Vulkan" series, only the following may be used as heat-transfer fluid:
 
-– "Argus-Galan" low-freezing liquid, freezing point minus 40°C. Service life at least 5 years, warranty period 1 year. Special components are added that prevent foaming and corrosion and the formation of scale (hereinafter: LF liquid);
+- "Argus-Galan" low-freezing liquid, freezing point minus 40°C. Service life at least 5 years, warranty period 1 year. Special components are added that prevent foaming and corrosion and the formation of scale (hereinafter: LF liquid);
 
-– drinking water (SanPiN 2.1.4.559-96), distilled water, melted snow water, rainwater (filtered), with a specific electrical resistivity (hereinafter: resistivity) of at least 3000-3200 Ohm cm at 15°C;
+- drinking water (SanPiN 2.1.4.559-96), distilled water, melted snow water, rainwater (filtered), with a specific electrical resistivity (hereinafter: resistivity) of at least 3000-3200 Ω·cm at 15°C;
 
 **WARNING!**
 
 **It is strictly forbidden to use as heat-transfer fluid any low-freezing liquids (antifreezes) not intended for electrode boilers, for example "TOSOL", "Arktika", "Tvoy Dom", etc.**
 
 ZAO "Firma Galan" continuously improves its boilers, so their specifications may differ slightly from those given in this table.
-
-8
 
 ---
 
@@ -183,8 +173,6 @@ Depending on their output, ZAO "Firma Galan" produces two groups of boilers, sin
 - a terminal group with a protective cover.
 
 The operating principle of all the boilers is the same and is described below.
-
-9
 
 ---
 
@@ -304,7 +292,7 @@ By the time the boiler is installed, the earthing of the heating system must alr
 
 <!-- page 16 -->
 
-4 Ohm. Copper conductor with a cross-section of 4-6 mm² is used as the earthing conductor (Table No. 1).
+4 Ω. Copper conductor with a cross-section of 4-6 mm² is used as the earthing conductor (Table No. 1).
 
 Protective earthing must comply with the PUE and the "Rules for the Construction and Safe Operation of Electric Boilers and Electric Boiler Houses".
 
@@ -316,7 +304,7 @@ The point where the earthing conductors enter the building or structure must be 
 
 Earthing electrodes must meet the requirements of the PUE.
 
-The design and construction of the earthing electrode must ensure the required earthing resistance of the boiler and the heating system, not more than 4 Ohm.
+The design and construction of the earthing electrode must ensure the required earthing resistance of the boiler and the heating system, not more than 4 Ω.
 
 The period for periodic inspection of the condition of the earthing electrode is 12 years.
 
@@ -433,7 +421,7 @@ For boilers with an output of up to 15 kW, the use of the MRT-15 mechanical temp
 
 The protective circuit breaker is used to switch the boiler's power supply on and off, and also acts as an automatic protective device against current overloads.
 
-The button on the body of the magnetic starter is used to switch the thermal relay on and off. During normal operation of the boiler's power circuit it is permanently in the on (pressed-in) position. If it trips, this means that the current drawn has exceeded the rated value, due to a fault in the boiler, in the wiring, or because the electrical resistivity of the water has fallen significantly below 3100 Ohm cm at 15°C. The thermal relay is switched on by pressing the button.
+The button on the body of the magnetic starter is used to switch the thermal relay on and off. During normal operation of the boiler's power circuit it is permanently in the on (pressed-in) position. If it trips, this means that the current drawn has exceeded the rated value, due to a fault in the boiler, in the wiring, or because the electrical resistivity of the water has fallen significantly below 3100 Ω·cm at 15°C. The thermal relay is switched on by pressing the button.
 
 a. Set the recommended temperature at the boiler "outlet" to 65°C÷75°C.
 
@@ -483,8 +471,6 @@ To increase the reliability and economic efficiency of the heating system, a uni
 
 Special components have been added to the LF liquid to prevent foam and scale formation in the heating system, as well as components that dissolve existing scale and slow down the corrosion process.
 
-Page number: 24
-
 ---
 
 <!-- page 25 -->
@@ -504,8 +490,6 @@ A measured quantity of LF liquid is poured into the system through the drain val
 **Use of water as the heat-transfer fluid.**
 
 The specific electrical resistivity (hereinafter: resistivity) of the initial water (Table No. 1) may differ from the value required for the boiler to operate at its nameplate output, so it may be necessary to change it either up or down (hereinafter: adjustment). The adjustment ("setting") of the resistivity is carried out after the system has been filled with water, by adding a solution of table salt to the water, or water with a high resistivity, so as to reach the table values of the starting (inrush) current and the maximum current (Table No. 4) at specified return temperatures (hereinafter: "Inlet"). The instructions of this manual must be followed most strictly:
-
-Page number: 25
 
 ---
 
@@ -532,8 +516,6 @@ Table 4
 | 8 | "Vulkan-36" | 36 | 380 | 3ph | 18-24 A per phase | 54.6 A per phase |
 | 9 | "Vulkan-50" | 50 | 380 | 3ph | 24-30 A per phase | 75.8 A per phase |
 
-Page number: 26
-
 ---
 
 <!-- page 27 -->
@@ -543,8 +525,6 @@ Page number: 26
 - prepare a solution of pure table salt: dissolve 1 teaspoon of salt in 200 g of hot water. This is the approximate quantity for 100 liters of water poured into the system. Depending on the difference between the measured starting current and its table value (Table No. 4) for your boiler and its output, and on the quantity of water in the system, determine the single dose of salt solution to be added to 20 liters of water drained from the system. Mix thoroughly. Using a "Malysh"-type pump, pour the mixture back into the system through the drain valve. Then drain another 20 liters from the system, without adding salt solution, and pour it back into the system. Run only the circulation pump for 20-30 minutes. The running time of the pump also depends on the size of the heating system and the volume of water in it. This is needed to equalize the water parameters throughout the whole volume of the heating system.
 
 Then switch on the boiler and measure the starting (inrush) current 30 seconds after switching on, at a return temperature of 15°C-20°C. Switch off the boiler and compare the measured current with the value given in Table No. 4 for your boiler. If the starting (inrush) current differs from the value in Table No. 4, repeat the adjustment of the specific electrical resistivity. The temperature at the boiler inlet must be 15°C÷20°C during this. Once these values match, the heating system must be switched on. After the temperature at the "Inlet" sensor reaches 60°C, measure the maximum current and compare it with the value in Table No. 4. If necessary, carry out further adjustment of the water's specific electrical resistivity using the method above. Note that the starting current value is only indicative (a rough target) and serves to simplify the adjustment of the water's specific electrical resistivity. The final criterion is the equality of the boiler's maximum current, when the temperature at the boiler inlet (Inlet sensor) reaches 60°C, with the value given in Table No. 4, after which the resistivity adjustment is complete.
-
-Page number: 27
 
 ---
 
@@ -556,8 +536,6 @@ Page number: 27
 
 - the change in resistivity throughout the whole volume of water poured into the system is achieved by increasing the number of single additions to the system and reducing the doses of salt solution, or of high-resistivity water, added to the system;
 - a larger quantity of water is pumped into the expansion tank after each addition of water with salt solution or with high resistivity, using a "Malysh"-type pump;
-
-Page number: 28
 
 ---
 
@@ -579,8 +557,6 @@ If, in the initial period of operation, with "fresh" water as the heat-transfer 
 
 - remove the boiler from the system, disassemble it and clean the electrode surfaces and the inner surfaces of the boiler from the layer of deposits with insulating (dielectric) properties that has built up on them, then reassemble the boiler and install it in the system.
 
-Page number: 29
-
 ---
 
 <!-- page 30 -->
@@ -599,8 +575,6 @@ Every year, immediately after the end of the heating season, it is necessary to:
 
 - cool the heating system down to room temperature;
 - drain 20 liters of water from the system and dissolve in this quantity the dose of the corrosion inhibitor "Galan-Protector". The dose is determined at the rate of 1.5 liters (or 0.5 liters, depending on the concentration) of inhibitor per 100 liters of water. Mix thoroughly, then pour it into the system through the drain valve using a "Malysh"-type pump. Drain another 20 liters of water from the system and pour it back in without inhibitor, and so on until the system is completely filled with water containing the inhibitor.
-
-Page number: 30
 
 ---
 
@@ -650,7 +624,7 @@ When monitoring the boiler's operation, visually check the heat-transfer fluid l
 
 a). Heat-transfer fluid: water.
 
-Top up the expansion tank to the normal level with distilled water, or clean, filtered rain or melted snow water, that is, water with a specific electrical resistivity significantly above 3100 Ohm cm.
+Top up the expansion tank to the normal level with distilled water, or clean, filtered rain or melted snow water, that is, water with a specific electrical resistivity significantly above 3100 Ω·cm.
 
 b). Heat-transfer fluid: low-freezing liquid.
 
@@ -658,7 +632,7 @@ b). Heat-transfer fluid: low-freezing liquid.
 
 <!-- page 34 -->
 
-Top up the expansion tank to the normal level with distilled water, or clean, filtered rain or melted snow water, that is, water with a specific electrical resistivity significantly above 3100 Ohm cm, and with low-freezing liquid in a 3:1 ratio. This work must be carried out only when the heating system is disconnected from the electricity network.
+Top up the expansion tank to the normal level with distilled water, or clean, filtered rain or melted snow water, that is, water with a specific electrical resistivity significantly above 3100 Ω·cm, and with low-freezing liquid in a 3:1 ratio. This work must be carried out only when the heating system is disconnected from the electricity network.
 
 c). Cases requiring immediate disconnection of the boiler's electrical supply
 
@@ -692,7 +666,7 @@ Every year, after the end of the heating season, work must be carried out to ens
 
 • check the reliability of the contacts of the earthing system and of the automation unit;
 
-• check the electrical resistance of the heating system's earthing. It must not exceed 4 Ohm;
+• check the electrical resistance of the heating system's earthing. It must not exceed 4 Ω;
 
 • inspect the circuit breaker: clean off dust, check and tighten the terminal connections, check for mechanical sticking and check the contacts;
 
@@ -736,10 +710,8 @@ When carrying out installation and commissioning work, and when operating the el
 
 | | | |
 |---|---|---|
-| 1. The boiler does not switch on, and the circuit breaker trips. | Short circuit in the electrical system due to incorrect connection of the boiler; electrical resistivity of the water is well below 3100 Ohm cm at 15°C. | Call an electrician and check that the assembled wiring diagram matches the one given in this manual. Check the starting currents. If necessary, adjust the electrical resistivity of the water. |
+| 1. The boiler does not switch on, and the circuit breaker trips. | Short circuit in the electrical system due to incorrect connection of the boiler; electrical resistivity of the water is well below 3100 Ω·cm at 15°C. | Call an electrician and check that the assembled wiring diagram matches the one given in this manual. Check the starting currents. If necessary, adjust the electrical resistivity of the water. |
 | 2. The heating system does not heat up (heats up weakly). | High specific electrical resistivity of the water. The set heat-transfer fluid temperature is too low. The connection diagrams of the boiler and the radiator layout do not match those given in this manual. | Strictly follow the recommendations in this manual regarding the heat-transfer fluid. Increase the set temperature. Bring the connection and installation diagrams into line with the diagrams in this manual. |
 | *(combined with item 2)* | Air locks in the heating system due to incorrect installation. The output of the boiler does not match the output of the heating appliances connected to it (radiators, convectors, etc.). | Correct the installation errors, and fill the heat-transfer fluid under pressure through the drain valve. Match the output of the boiler to the heating appliances. |
 | 3. The boiler draws its rated power, but only the pipeline nearest the boiler (riser) heats up. | Circulation of the heat-transfer fluid in the heating system is disrupted; air locks. | Clean the heating system and flush it thoroughly using the inhibitor "Galan-Protector". Always fit a coarse filter and clean it periodically. Remove the air locks. |
 | 4. The boiler gradually loses its output, including when operating on "fresh water". | Dirt, rust, scale, etc. on the inner surfaces of the boiler and on the electrodes. | Clean the electrodes and the inner surface of the boiler body until a metallic shine appears. |
-
-37

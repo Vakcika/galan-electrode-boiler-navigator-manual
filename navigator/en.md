@@ -22,15 +22,17 @@ RST conformity mark, ME 69
 
 # Contents
 
-Purpose ........................................................ 3
-Description and operating principle ............................... 4
-Scope of supply .................................................. 6
-Safety instructions ............................................... 6
-Installation, preparation for operation ............................ 7
-Switching on, setting the operating modes of the Navigator ........ 12
-Maintenance ...................................................... 12
-Storage rules .................................................... 13
-List of possible faults and methods of rectification ............... 14
+| Chapter | Page |
+|---|:---:|
+| Purpose | 3 |
+| Description and operating principle | 4 |
+| Scope of supply | 6 |
+| Safety instructions | 6 |
+| Installation, preparation for operation | 7 |
+| Switching on, setting the operating modes of the Navigator | 12 |
+| Maintenance | 12 |
+| Storage rules | 13 |
+| List of possible faults and methods of rectification | 14 |
 
 ---
 
@@ -81,9 +83,9 @@ Temperature is controlled over two channels, from the supply pipe sensor (red) a
 
 | **Setting range:** | **Recommended values:** |
 |---|---|
-| Return: 10–80°C. | Return: 35–40°C. |
-| Supply: 10–85°C. | Supply: 70–75°C. |
-| Hysteresis: 1–9°C | Hysteresis: 3–5°C |
+| Return: 10-80°C. | Return: 35-40°C. |
+| Supply: 10-85°C. | Supply: 70-75°C. |
+| Hysteresis: 1-9°C | Hysteresis: 3-5°C |
 
 In this manual, hysteresis is the temperature difference between the boiler switching off and the subsequent switching back on.
 
@@ -118,11 +120,11 @@ The maximum permissible electrical power on the "pump" output is 200 W. If a cir
 
 <!-- page 7 -->
 
-4.3. The temperature controller is designed for use in explosion-proof rooms.
+4.3. The temperature controller is designed for use in non-hazardous (non-explosive) rooms.
 
 4.4. Moisture must not get onto the output contacts of the terminal blocks or the internal electronic components of the temperature controller. The temperature controller must not be used in aggressive environments where the atmosphere contains acids, alkalis, oils, etc.
 
-4.5. The temperature controller may be operated in a room where the temperature is not below +5°C and not above +40°C and the relative humidity does not exceed 85%.)
+4.5. The temperature controller may be operated in a room where the temperature is not below +5°C and not above +40°C and the relative humidity does not exceed 85%.
 
 4.6. Installation and maintenance of the temperature controller must be carried out by qualified specialists who have studied this operating manual.
 
@@ -144,7 +146,7 @@ Use copper wire with a conductor cross-section of 0.5-2.5 mm² for the control c
 
 <!-- page 8 -->
 
-Strip the end of the cable for connecting the control circuits to a length of 7+0.5 mm. A longer end may cause a short circuit, and a shorter end may cause an unreliable connection. Open the terminal screw and insert the stripped end of the cable into the terminal.
+Strip the end of the cable for connecting the control circuits to a length of 7±0.5 mm. A longer end may cause a short circuit, and a shorter end may cause an unreliable connection. Open the terminal screw and insert the stripped end of the cable into the terminal.
 
 Tighten the terminal to the recommended torque for control circuits: 0.5 N·m.
 
